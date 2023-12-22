@@ -1,5 +1,5 @@
 
-Certainly! If you want to create a concise and engaging description for your GitHub repository related to your education website built with JavaScript and Laravel, you can consider the following template:
+
 
 🚀 Online Academy - Education Website
 
