@@ -1,5 +1,5 @@
 
-
+<p align="left">
 
 🚀 Online Academy - Education Website
 
@@ -23,3 +23,4 @@ Install dependencies: npm install && composer install
 Run the application: npm run dev && php artisan serve
 Join us in redefining education through technology. Happy learning! 🚀
 
+</p>
