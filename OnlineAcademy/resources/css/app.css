@@ -949,9 +949,7 @@ footer .copyright .pro-links i:hover{
     align-items: flex-start;
     transition: 0.3s ease;
   }
-  nav .navigation ul.active{
-    right:0;
-  }
+ 
   nav .navigation ul li{
     padding: 20px 0 20px 40px;
     margin-left: 0;
